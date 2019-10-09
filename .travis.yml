@@ -3,4 +3,4 @@ language: generic
 services:
   - docker
 
-docker build -t iox-hello-python . 
+- docker build -t iox-hello-python . 
