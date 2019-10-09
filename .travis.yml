@@ -1,0 +1,4 @@
+services:
+  - docker
+
+docker build -t iox-hello-python . 
